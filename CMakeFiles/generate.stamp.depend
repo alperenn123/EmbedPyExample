@@ -1,0 +1,35 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.13/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CheckCXXCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/FindPythonInterp.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/Platform/WindowsPaths.cmake
+C:/Users/Alperen/Desktop/EmbedPy/CMakeFiles/3.13.0/CMakeCCompiler.cmake
+C:/Users/Alperen/Desktop/EmbedPy/CMakeFiles/3.13.0/CMakeCXXCompiler.cmake
+C:/Users/Alperen/Desktop/EmbedPy/CMakeFiles/3.13.0/CMakeRCCompiler.cmake
+C:/Users/Alperen/Desktop/EmbedPy/CMakeFiles/3.13.0/CMakeSystem.cmake
+C:/Users/Alperen/Desktop/EmbedPy/CMakeLists.txt
+C:/vcpkg/packages/pybind11_x86-windows/share/cmake/pybind11/FindPythonLibsNew.cmake
+C:/vcpkg/packages/pybind11_x86-windows/share/cmake/pybind11/pybind11Config.cmake
+C:/vcpkg/packages/pybind11_x86-windows/share/cmake/pybind11/pybind11ConfigVersion.cmake
+C:/vcpkg/packages/pybind11_x86-windows/share/cmake/pybind11/pybind11Targets.cmake
+C:/vcpkg/packages/pybind11_x86-windows/share/cmake/pybind11/pybind11Tools.cmake

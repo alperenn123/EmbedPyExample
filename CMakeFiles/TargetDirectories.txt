@@ -1,0 +1,2 @@
+C:/Users/Alperen/Desktop/EmbedPy/CMakeFiles/EmbedPy.dir
+C:/Users/Alperen/Desktop/EmbedPy/CMakeFiles/ALL_BUILD.dir
